@@ -20,8 +20,11 @@ It'll then evaluate the expression and print the result.
 
 
 Here's more info and another examples of the parser (the latest 3 doesn't evaluate the expression). I took inspiration and got helped by the authors!
+
 [parser by iglosiggio (javascript)](https://gist.github.com/iglosiggio/b9f0452123160fe147488bf348047605)
 
 [Haskell parser by nsanmartin (Haskell)](https://gist.github.com/nsanmartin/e7edd30d3689a14a0edfa4caab0098e2)
 
 [Python parser by fsan (Python)](https://tildegit.org/fsan/amor-plastico/src/branch/master/main.py)
+
+And a few more. In the next days I will make a post talking about the similarities in the parsers. (e.g. only one implemented the "not" operator, why?)
